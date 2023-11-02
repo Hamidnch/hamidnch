@@ -15,5 +15,6 @@
 
 <a href="https://api.whatsapp.com/send?phone=989124820700"><img src="https://github.com/Hamidnch/hamidnch/blob/main/images/Whatsup-100.png?raw=true"/></a>
 <a href="https://t.me/Hamidnch2007"><img src="https://github.com/Hamidnch/hamidnch/blob/main/images/Telegram-178x100.png?raw=true"/></a>
+<a href="https://www.linkedin.com/in/hamid-nezamivand-chegini-0a6b1135/"><img src="https://github.com/Hamidnch/hamidnch/blob/main/images/LinkedIn-100.png?raw=true"/></a>
 
 
